@@ -13,7 +13,8 @@ formatted_date = current_date.strftime("%d-%m-%Y")
 
 
 # токен от BotFather
-TOKEN = '6456181733:AAHKimH71GjTSA-Eilv_1KhvMXWEqT23-MM'
+# TOKEN = '6456181733:AAHKimH71GjTSA-Eilv_1KhvMXWEqT23-MM' # Основной бот
+TOKEN = '6987688722:AAHwes4CFzxBbM0pCBIvqslatXGSAounXLg' # Тест бот
 
 bot = telebot.TeleBot(TOKEN)
 
